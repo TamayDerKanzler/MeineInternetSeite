@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Bin Tamay.", "trete Passanten.", "mag fette Torten.", "bin LOL Pro.", "bin hart wie staal"],
+      strings: ["Will mi slüssel.", "trete Passanten.", "mag fette Torten.", "bin LOL Pro.", "bin hart wie staal"],
       typeSpeed: 100,
       loop: true,
     });
